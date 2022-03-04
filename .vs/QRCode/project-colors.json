@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4878a45-7cf7-4109-b99c-b48aad979334": {
+      "ProjectGuid": "b4878a45-7cf7-4109-b99c-b48aad979334",
+      "DisplayName": "QRCode",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
